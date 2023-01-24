@@ -1,0 +1,16 @@
+.my-alert {
+    background-color: #fefeff;
+    border: 1px solid #b1d0ff;
+    /* box-shadow : 0 2px 0px 0 rgba(63, 63, 63, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06); */
+    border-radius: 4px;
+    color: #2264D1;
+}
+
+.alert-icon {
+    color: #2264D1;
+}
+
+.my-alert-danger {
+    background-color: #fffefe;
+    border: 1px solid #ffb1b1;
+}
